@@ -2,8 +2,8 @@
 layout: post
 title: CUDA code tutorial
 categories: [paper review]
-tags: [slim, scene representation]
-description: Sample placeholder post.
+tags: [cuda]
+description:nvidai gpu and cuda code tutorial
 ---
 
  CUDA Tutorial 페이지와 Alpha campus를 보고 정리한 내용이다!
