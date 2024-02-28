@@ -11,13 +11,8 @@ In your config file change these settings
 {% highlight yaml %}
 title: dbyll
 author:  
-  name: yourname  
-  email: youremail  
-  github: asd123  
-  twitter: asd123  
-  pinterest: asd123  
+  name: eunseon  
+  email: eunseon1003@gmail.com  
+  github: eunseon02  
   linkedin: asd123  
-  resume: asd123  
-  bio: Your stylish,  minimalist theme!  
-  email_md5: md5ofemail  
 {% endhighlight %}
