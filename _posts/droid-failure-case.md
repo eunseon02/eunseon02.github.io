@@ -1,8 +1,8 @@
 ---
 layout: post
 title: Droid-SLAM failure case
-categories: [general, setup, demo]
-tags: [demo, dbyll, dbtek, setup]
+categories: [slam, 3d-mapping]
+tags: [droid-slam, ad-mapping, slam, deep-learning]
 fullview: true
 comments: Droid-SLAM을 직접 실행시켜보며 확인해볼 수 있었던 tracking failure case를 정리하였다.
 ---
